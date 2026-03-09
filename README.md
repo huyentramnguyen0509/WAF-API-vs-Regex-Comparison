@@ -1,4 +1,4 @@
-# So sánh AI WAF và Regex (WAF Comparison)
+# So sánh WAF API và Regex (WAF Comparison)
 Dự án này thực hiện so sánh đối chiếu giữa hai phương pháp phát hiện mã độc trong HTTP Request (Web Application Firewall):
 1. **Phương pháp truyền thống:** Sử dụng Regular Expression (Regex).
 2. **Phương pháp trí tuệ nhân tạo:** Sử dụng mô hình Random Forest Classifier.
@@ -18,4 +18,4 @@ Mô hình tập trung so sánh các chỉ số quan trọng:
 
 ## Cách chạy
 1. Đảm bảo bạn có file dữ liệu `csic_database.csv`.
-2. Chạy file `AI-WAF-vs-Regex-Comparison.py`.
+2. Chạy file `WAF API-vs-Regex-Comparison.py`.
